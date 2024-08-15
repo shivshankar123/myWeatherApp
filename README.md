@@ -1,4 +1,4 @@
-#MY Weather App
+MY Weather App
 This project is a weather application built using React.js. The app allows users to search for a city and view current weather conditions as well as a 7-day forecast.
 
 Features
@@ -30,25 +30,6 @@ Steps
    npm start
 
 The app will run locally on http://localhost:5173.
-
-File Structure
-plaintext
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   │   ├── api.js           // Handles API calls to fetch weather data
-│   │   ├── CurrentWeather.jsx  // Displays the current weather details
-│   │   ├── Header.jsx          // Header component
-│   │   ├── SearchBar.jsx       // Search bar for entering city names
-│   │   └── ...
-│   ├── App.js               // Main app component
-│   ├── index.js             // Entry point of the application
-│   └── ...
-├── .gitignore
-├── package.json
-└── README.md
 
 Usage
 - Search for a City: Type the name of a city in the search bar and press Enter. The app will display the current weather and a 7-day forecast for the selected city.

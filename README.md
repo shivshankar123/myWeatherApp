@@ -1,4 +1,5 @@
 MY Weather App
+
 This project is a weather application built using React.js. The app allows users to search for a city and view current weather conditions as well as a 7-day forecast.
 
 Features

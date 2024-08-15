@@ -5,8 +5,8 @@ function Header() {
   return (
     <div className="container mx-auto px-4 py-4 flex justify-between items-center">
       <div className="flex items-center">
-        <img src={ReactLogo} alt="React Logo" />
-        <h1 className="text-xl font-bold text-primary-content">
+        <img src={ReactLogo} alt="React Logo" className="w-12 h-12" />
+        <h1 className="text-2xl font-bold text-primary-content ml-4">
           My Weather App
         </h1>
       </div>
